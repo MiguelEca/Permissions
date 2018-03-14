@@ -1,0 +1,14 @@
+{
+    "name": "beli/Permissions",
+    "description": "Package Permissions",
+    "type": "project",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Miguel Eca",
+            "email": "miguel@hotmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
